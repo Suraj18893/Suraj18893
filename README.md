@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Suraj Ganguly</h1>
+<h1 align="center">Hi 👋, Suraj Ganguly <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj18893&label=Profile%20views&color=0e75b6&style=flat" alt="suraj18893" /> </p> -->
