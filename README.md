@@ -1,4 +1,4 @@
-### Hi there, I'm Suraj Gamguly <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm Suraj Ganguly <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj18893&label=Profile%20views&color=0e75b6&style=flat" alt="suraj18893" /> </p> -->
