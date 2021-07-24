@@ -14,7 +14,7 @@
 <!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
 - 🌱 &nbsp; Learning more about React.js and React-Native.
 
-- 🎸 &nbsp; Plays guitar and produce music in my free time.
+- 🎸 &nbsp; Plays guitar and produces music in my free time.
 
 - 🔭 I’m currently working on [Chat Application](https://github.com/Suraj18893/chat_app)
 
