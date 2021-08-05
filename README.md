@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 
-- 🎓 &nbsp; Pursuing B tech from NATIONAL INSTITUTE OF TECHNOLOGY JAMSHEDPUR.
+- 🎓 &nbsp; Pursuing B.Tech from NATIONAL INSTITUTE OF TECHNOLOGY JAMSHEDPUR.
 <!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
 - 🌱 &nbsp; Learning more about React.js and React-Native.
 
