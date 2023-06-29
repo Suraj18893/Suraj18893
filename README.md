@@ -11,16 +11,12 @@
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 
 - 🎓 &nbsp; Pursuing B.Tech from NATIONAL INSTITUTE OF TECHNOLOGY JAMSHEDPUR.
-<!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
+
 - 🌱 &nbsp; Learning more about React.js and React-Native.
 
 - 🎸 &nbsp; Plays guitar and produces music in my free time.
 
-- 🔭 I’m currently working on [Youtube-Clone](https://github.com/Suraj18893/You-Tube-Clone)
-
 - 👨‍💻 All of my projects are available at [my repository](https://github.com/Suraj18893?tab=repositories)
-
-- 💬 Ask me about anything related to JS, React, C++, Firebase.(After googling it 😜😌)
 
 - 📫 How to reach me: **surajganguly18@gmail.com**
 
@@ -38,12 +34,14 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next Js](https://img.shields.io/badge/-Next-333333?style=flat&logo=next)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
